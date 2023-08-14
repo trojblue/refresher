@@ -1,0 +1,12 @@
+{
+  "gradient": {
+    "API_KEY": "YOUR_API_KEY",
+    "TIMEZONE": "UTC"
+  },
+  "lambda_labs": {
+    "API_BASE_URL": "https://cloud.lambdalabs.com/api/v1",
+    "KEY": "key",
+    "SSH_KEY_NAMES": [""],
+    "NODE_NAME": "node"
+  }
+}
